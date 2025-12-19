@@ -1,0 +1,16 @@
+{
+  "packet_duration": 0.02,
+  "second_frame": 456789,
+  "length": 64,
+  "src_ip_int": 123456,
+  "dest_ip_int": 654321,
+  "protocol_ICMPv6": 1,
+  "protocol_IEEE_802_15_4": 0,
+  "protocol_UDP": 0,
+  "info_Ack": 0,
+  "info_RPL_DIO": 1,
+  "info_RPL_DIS": 0,
+  "info_RPL_DAO": 0,
+  "info_ultraseek_rrac": 0,
+  "info_Unknown_17": 0
+}
